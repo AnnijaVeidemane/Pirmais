@@ -9,11 +9,11 @@ font-size: 32px;
   border-style: ridge;
   border-color: black;
   border-spacing: 50px;
-  background-color: lightgrey;
+  background-color: pink;
   padding: 10px 10px 10px 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 40%;
 }
 .iesniegt {
   border-style: solid;
@@ -22,7 +22,7 @@ font-size: 32px;
   margin-left: 5%;
 }
 .button {
-  background-color: white;
+  background-color: grey;
   border: none;
   color: black;
   padding: 15px 32px;
